@@ -8,7 +8,6 @@ import img1 from '../Images/Portfolio.jpeg';
 import img2 from '../Images/Athenaeum.jpeg';
 import img3 from '../Images/Tracker.png';
 import img4 from '../Images/APHELEIA.jpeg';
-import Box from '@mui/material/Box';
 
 function About() {
   return (
@@ -115,9 +114,9 @@ function About() {
         </Typography></center>
         <Typography variant="body2" color="text.secondary">
         <center>An interactive app that tracks Bugs/Issues and can assign 
-            them to users for comments and resolution. <br />A clean, modern 
+            them to users for comments and resolution. A clean, modern 
             interface using MUI components and reactive styling to 
-            provide a seamless mobile-first experience. <br />Collaborative development by Shanti Betts,
+            provide a seamless mobile-first experience. Collaborative development by Shanti Betts,
            Irais Avila, Alex Becker, and myself.</center>
         </Typography>
       </CardContent>
@@ -154,9 +153,9 @@ function About() {
         <Typography variant="body2" color="text.secondary">
         <center>3 weeks after learning to code I created a personal portfolio. 
                The portfolio is a website showcasing myself, skills, 
-               and contact information as a Software Engineer much like this one. <br /> 
+               and contact information as a Software Engineer much like this one. 
                I had no other projects at the time, so I left images as placeholders. 
-               My skills were updated as I gained new ones. <br />
+               My skills were updated as I gained new ones.
                Anyone visiting my portfolio website is able to interact with 
               my content and get familiar with who I am as well as the skills, and 
                ideas I have to bring to the table as a developer.</center>
