@@ -39,7 +39,7 @@ const TopNavBar = () => {
 						<MenuIcon />
 					</IconButton>
 					<Link to="/" style={{ textDecoration: 'none', color: '#FFF' }}>
-					<Typography variant="h6" color="inherit">
+					<Typography variant="h7" color="inherit">
                     Alexandra Cruz | Software Engineer
                 </Typography>
 				</Link>
